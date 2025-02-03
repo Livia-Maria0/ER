@@ -1,0 +1,171 @@
+@charset "UTF-8";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+*{
+    font-family: "Pixelify Sans", serif;
+    /*height: 100%;*/
+
+}
+
+body {
+    background-image: linear-gradient(to right, #F5B7E2, #eee2ea);
+    font-family: "Pixelify Sans", serif;
+    
+}
+
+main {
+    background-color: white;
+    width: 600px; /*largura*/
+    padding: 10px; /*acolchoamento da uma engordada*/
+    margin: auto;
+    box-shadow: 5px 5px 3px rgb(204, 53, 53);
+}
+
+.h1 {
+    color: rgb(238, 131, 158);
+}
+
+
+h1 {
+    color: bisque;
+}
+
+h2 {
+    color: burlywood;
+
+}
+
+p {
+    text-align: justify;
+}
+
+.b {
+    color: red;
+}
+
+
+.eldenring {
+    color: rgb(145, 90, 20);
+}
+
+.proximo {
+    color: blueviolet;
+}
+
+.voltar {
+    color: purple;
+}
+
+.segundamain {
+    background-color: white;
+    width: 600px; /*largura*/
+    padding: 10px; /*acolchoamento da uma engordada*/
+    margin: auto;
+    font-family: "Pixelify Sans", serif;
+}
+
+.ranni {
+    color: aquamarine;
+}
+
+mark {
+    background-color: rgb(192, 236, 221);
+}
+
+.imgranni {
+    width: 450px;
+    height: 250px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 13%;
+}
+
+.couple {
+    width: 450px;
+    height: 250px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #e679b8;   /* Borda azul */
+    border-radius: 50%;    /* Deixa redonda */
+
+}
+
+.mainalexander {
+    background-color: white;
+    width: 600px; /*largura*/
+    padding: 10px; /*acolchoamento da uma engordada*/
+    margin: auto;
+}
+
+.alexander {
+    color: rgb(212, 34, 34);
+}
+
+.imgalexander {
+    width: 450px;
+    height: 260px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 13%;
+}
+
+.ale {
+    color: violet;
+    text-decoration: none;
+    border-radius: 5px;         /* Bordas arredondadas */
+    font-weight: bold;          /* Texto em negrito */
+    display: inline-block;      /* Garante que o padding funcione como botão */
+    transition: background-color 0.3s;
+    padding: 10px 20px;
+}
+
+.voltar {
+    text-decoration: none;
+    color: violet;
+    border-radius: 5px;         /* Bordas arredondadas */
+    font-weight: bold;          /* Texto em negrito */
+    display: inline-block;      /* Garante que o padding funcione como botão */
+    transition: background-color 0.3s;
+}
+
+.proximo {
+    text-decoration: none;
+    color: violet;
+    border-radius: 5px;         /* Bordas arredondadas */
+    font-weight: bold;          /* Texto em negrito */
+    display: inline-block;      /* Garante que o padding funcione como botão */
+    transition: background-color 0.3s;
+}
+
+.ranninext {
+    text-decoration: none;
+    color: violet;
+    border-radius: 5px;         /* Bordas arredondadas */
+    font-weight: bold;          /* Texto em negrito */
+    display: inline-block;      /* Garante que o padding funcione como botão */
+    transition: background-color 0.3s;
+}
+
+.ale:hover {
+    color: red;
+
+}
+
+.voltar:hover {
+    color: red;
+ 
+}
+
+.proximo:hover {
+    color: red;
+
+}
+
+.ranninext:hover {
+    color: red;
+ 
+}
+
